@@ -5,7 +5,7 @@ The Cyber Kill Chain, developed by Lockheed Martin, is a framework that outlines
 
 ![image](https://github.com/user-attachments/assets/64b44440-c948-42fb-a1f8-4f0f716aae66)
 
-## 2. Reconaissance 
+## 2. Reconnaissance 
 	
 - Discovering and information gathering on the system and the victim. This is the planning phase for the attack.
 - Open source intelligence (OSINT) is the act of gathering and analysing publicly available data for intelligence purposes.
